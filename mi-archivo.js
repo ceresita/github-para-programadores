@@ -1,1 +1,2 @@
-alert ("Hola Leus, digo Mundo");
+alert ("Hola Mundo");
+console.log("Cambios en el archivo");

@@ -2,6 +2,6 @@
 
 GitHub para desarrolladores
 
-[Hola Leussss la concha de tu madre](https://www.facebook.com/galvanleandro)
+[Hola Leussss](https://www.facebook.com/galvanleandro)
 
 PULL REQUEST
